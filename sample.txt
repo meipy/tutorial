@@ -1,6 +1,6 @@
 I'm studying Git.
 add 変更をインデックスに登録する。
-こんにちは
+こんばんは
 add 変更をbranchに登録する
 もう一度
 issue2
